@@ -1,0 +1,22 @@
+.form {
+    display: flex;
+}
+
+.form input {
+    flex: 1;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid gainsboro;
+}
+
+.create-button {
+    padding: 5px;
+    background-color: antiquewhite;
+    color: gray;
+    cursor: pointer;
+}
+
+/* 마우스 올렸을 때 색깔 변화(hover) */
+.create-button:hover {
+    background-color: plum;
+}

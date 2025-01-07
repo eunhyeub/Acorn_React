@@ -1,0 +1,20 @@
+.App {
+  padding-left: 20px;
+  padding-top: 30px;
+}
+
+.blackBar {
+  background-color: black;
+  width: 100%;
+  color: white;
+  padding: 5px;
+  display: flex;
+}
+
+.image_bg {
+  width: 300px;
+  height: 100px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url("images2.jpg");
+}
